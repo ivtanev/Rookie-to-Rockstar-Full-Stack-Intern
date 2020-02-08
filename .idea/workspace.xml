@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b83e1a59-98de-476d-b393-954773aa8aa6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XXNkYX3nA1FP59ayPvfi80enQ6" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="DevCamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b83e1a59-98de-476d-b393-954773aa8aa6" name="Default Changelist" comment="" />
+      <created>1581188622613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581188622613</updated>
+      <workItem from="1581188632834" duration="1541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1581189857483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581189857483" />
+    <state width="1286" height="235" key="GridCell.Tab.0.bottom" timestamp="1581190390103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581190390103" />
+    <state width="1286" height="235" key="GridCell.Tab.0.center" timestamp="1581190390103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="235" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581190390103" />
+    <state width="1286" height="235" key="GridCell.Tab.0.left" timestamp="1581190390102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="235" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581190390102" />
+    <state width="1286" height="235" key="GridCell.Tab.0.right" timestamp="1581190390103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="235" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581190390103" />
+  </component>
+</project>
